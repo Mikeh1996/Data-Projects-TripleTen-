@@ -9,7 +9,7 @@ This repository serves as a **central hub** for all my bootcamp projects, showca
 
 These are my most advanced projects, demonstrating end-to-end data science workflows and practical applications:
 
-1. **[Computer Vision](https://github.com/Mikeh1996/Computer-Vision)**  
+1. **[Computer Vision](https://github.com/Mikeh1996/Computer-Vision-)**  
    Image classification with CNNs, data augmentation, and transfer learning (ResNet50).  
    *Skills:* TensorFlow, Keras, CNNs, Transfer Learning, Data Augmentation  
 
@@ -27,7 +27,7 @@ These are my most advanced projects, demonstrating end-to-end data science workf
 
 Here are all the projects I completed during the TripleTen bootcamp, listed in reverse chronological order (most recent first):
 
-14. **[Computer Vision](https://github.com/Mikeh1996/Computer-Vision)** – CNNs, augmentation, ResNet50.  
+14. **[Computer Vision](https://github.com/Mikeh1996/Computer-Vision-)** – CNNs, augmentation, ResNet50.  
 13. **[Machine Learning for Texts](https://github.com/Mikeh1996/Machine-Learning-for-Texts)** – NLP sentiment classification, BERT.  
 12. **[Time Series Taxi Demand Forecasting](https://github.com/Mikeh1996/Time-Series-Taxi-Demand-Forecasting-)** – Demand forecasting with ARIMA & LSTM.  
 11. **[Numerical Methods Car Price Prediction](https://github.com/Mikeh1996/Numerical-Methods-Car-Price-Prediction)** – Regression for used car pricing.
